@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "A sigma value is a measurement result: tolerance choice and uncertainty in classical and biological-variation-based sigma metrics – analysis code and data"
+authors:
+  - family-names: Kılınçkaya
+    given-names: Muhammed Fevzi
+    orcid: "https://orcid.org/0000-0002-0815-5467"
+  - family-names: Cihan
+    given-names: Murat
+    orcid: "https://orcid.org/0000-0001-6611-7226"
+license: MIT
+version: 1.0.0
+date-released: 2026-11-11

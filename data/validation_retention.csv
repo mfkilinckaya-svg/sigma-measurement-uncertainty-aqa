@@ -1,0 +1,337 @@
+design,model,test,P,obs,exp,grp
+temporal_chem,OC,"ALBUMİN, SERUM",1.0,1,1.0,cert
+temporal_chem,BV,"ALBUMİN, SERUM",1.0,1,1.0,cert
+temporal_chem,TR,"ALBUMİN, SERUM",1.0,1,0.9999,cert
+temporal_chem,OC,"ALBUMİN, SERUM",1.0,1,1.0,cert
+temporal_chem,BV,"ALBUMİN, SERUM",1.0,1,1.0,cert
+temporal_chem,TR,"ALBUMİN, SERUM",1.0,1,0.99145,cert
+temporal_chem,OC,"ALBUMİN, SERUM",1.0,1,1.0,cert
+temporal_chem,BV,"ALBUMİN, SERUM",1.0,1,1.0,cert
+temporal_chem,TR,"ALBUMİN, SERUM",1.0,1,1.0,cert
+temporal_chem,OC,"ALBUMİN, SERUM",1.0,1,1.0,cert
+temporal_chem,BV,"ALBUMİN, SERUM",1.0,1,1.0,cert
+temporal_chem,TR,"ALBUMİN, SERUM",0.9829,1,0.88115,cert
+temporal_chem,OC,ALP (ALKALEN FOSFATAZ),1.0,1,1.0,cert
+temporal_chem,BV,ALP (ALKALEN FOSFATAZ),0.9282,0,0.79205,mid
+temporal_chem,TR,ALP (ALKALEN FOSFATAZ),1.0,1,0.99965,cert
+temporal_chem,OC,ALP (ALKALEN FOSFATAZ),0.9675,0,0.85275,cert
+temporal_chem,BV,ALP (ALKALEN FOSFATAZ),0.8594,0,0.7,mid
+temporal_chem,TR,ALP (ALKALEN FOSFATAZ),1.0,1,1.0,cert
+temporal_chem,OC,ALP (ALKALEN FOSFATAZ),1.0,1,1.0,cert
+temporal_chem,BV,ALP (ALKALEN FOSFATAZ),0.8416,0,0.72385,mid
+temporal_chem,TR,ALP (ALKALEN FOSFATAZ),1.0,1,0.99975,cert
+temporal_chem,OC,ALP (ALKALEN FOSFATAZ),0.9957,0,0.93545,cert
+temporal_chem,BV,ALP (ALKALEN FOSFATAZ),0.9643,0,0.77725,cert
+temporal_chem,TR,ALP (ALKALEN FOSFATAZ),1.0,1,1.0,cert
+temporal_chem,OC,GGT (G-GLUTAMİL TRANSFERAZ),0.9887,1,0.87125,cert
+temporal_chem,BV,GGT (G-GLUTAMİL TRANSFERAZ),1.0,1,0.99325,cert
+temporal_chem,TR,GGT (G-GLUTAMİL TRANSFERAZ),1.0,1,0.9997,cert
+temporal_chem,OC,GGT (G-GLUTAMİL TRANSFERAZ),0.9896,1,0.8682,cert
+temporal_chem,BV,GGT (G-GLUTAMİL TRANSFERAZ),1.0,1,0.99425,cert
+temporal_chem,TR,GGT (G-GLUTAMİL TRANSFERAZ),1.0,1,0.99985,cert
+temporal_chem,OC,GGT (G-GLUTAMİL TRANSFERAZ),0.9782,1,0.86925,cert
+temporal_chem,BV,GGT (G-GLUTAMİL TRANSFERAZ),1.0,1,0.9994,cert
+temporal_chem,TR,GGT (G-GLUTAMİL TRANSFERAZ),1.0,1,1.0,cert
+temporal_chem,OC,GGT (G-GLUTAMİL TRANSFERAZ),0.973,1,0.8553,cert
+temporal_chem,BV,GGT (G-GLUTAMİL TRANSFERAZ),1.0,1,0.9996,cert
+temporal_chem,TR,GGT (G-GLUTAMİL TRANSFERAZ),1.0,1,1.0,cert
+temporal_chem,OC,"GLUKOZ, AÇLIK",0.9979,1,0.9601,cert
+temporal_chem,BV,"GLUKOZ, AÇLIK",0.9744,0,0.84185,cert
+temporal_chem,TR,"GLUKOZ, AÇLIK",0.7505,0,0.5978,unc
+temporal_chem,OC,"GLUKOZ, AÇLIK",1.0,1,0.99905,cert
+temporal_chem,BV,"GLUKOZ, AÇLIK",0.6662,0,0.59575,unc
+temporal_chem,TR,"GLUKOZ, AÇLIK",0.9481,0,0.7599,mid
+temporal_chem,OC,Glukoz Açlık,0.621,0,0.57185,unc
+temporal_chem,BV,Glukoz Açlık,0.5168,0,0.5087,unc
+temporal_chem,TR,Glukoz Açlık,0.7481,0,0.6536,unc
+temporal_chem,OC,Glukoz Açlık,1.0,1,0.9998,cert
+temporal_chem,BV,Glukoz Açlık,0.9004,0,0.77235,mid
+temporal_chem,TR,Glukoz Açlık,0.9503,1,0.76895,cert
+temporal_chem,OC,"KALSİYUM (Ca), TOTAL, SERUM",1.0,1,1.0,cert
+temporal_chem,BV,"KALSİYUM (Ca), TOTAL, SERUM",1.0,1,1.0,cert
+temporal_chem,TR,"KALSİYUM (Ca), TOTAL, SERUM",0.9999,0,0.98425,cert
+temporal_chem,OC,"KALSİYUM (Ca), TOTAL, SERUM",1.0,1,1.0,cert
+temporal_chem,BV,"KALSİYUM (Ca), TOTAL, SERUM",1.0,1,1.0,cert
+temporal_chem,TR,"KALSİYUM (Ca), TOTAL, SERUM",0.9383,0,0.7535,mid
+temporal_chem,OC,"KALSİYUM (Ca), TOTAL, SERUM",1.0,1,1.0,cert
+temporal_chem,BV,"KALSİYUM (Ca), TOTAL, SERUM",1.0,1,1.0,cert
+temporal_chem,TR,"KALSİYUM (Ca), TOTAL, SERUM",0.706,1,0.62435,unc
+temporal_chem,OC,"KALSİYUM (Ca), TOTAL, SERUM",1.0,1,1.0,cert
+temporal_chem,BV,"KALSİYUM (Ca), TOTAL, SERUM",1.0,1,1.0,cert
+temporal_chem,TR,"KALSİYUM (Ca), TOTAL, SERUM",0.9304,0,0.7613,mid
+temporal_chem,OC,"KOLESTEROL, HDL",1.0,1,1.0,cert
+temporal_chem,BV,"KOLESTEROL, HDL",0.9999,0,0.98295,cert
+temporal_chem,TR,"KOLESTEROL, HDL",0.9021,0,0.73305,mid
+temporal_chem,OC,"KOLESTEROL, HDL",1.0,1,1.0,cert
+temporal_chem,BV,"KOLESTEROL, HDL",1.0,1,1.0,cert
+temporal_chem,TR,"KOLESTEROL, HDL",0.6037,0,0.5617,unc
+temporal_chem,OC,"KOLESTEROL, HDL",1.0,1,1.0,cert
+temporal_chem,BV,"KOLESTEROL, HDL",0.8163,1,0.70075,mid
+temporal_chem,TR,"KOLESTEROL, HDL",0.9065,0,0.68255,mid
+temporal_chem,OC,"KOLESTEROL, HDL",1.0,1,1.0,cert
+temporal_chem,BV,"KOLESTEROL, HDL",1.0,1,1.0,cert
+temporal_chem,TR,"KOLESTEROL, HDL",0.8312,1,0.70535,mid
+temporal_chem,OC,"KOLESTEROL, TOTAL",0.9999,0,0.99295,cert
+temporal_chem,BV,"KOLESTEROL, TOTAL",0.8045,0,0.681,mid
+temporal_chem,TR,"KOLESTEROL, TOTAL",0.8072,0,0.627,mid
+temporal_chem,OC,"KOLESTEROL, TOTAL",0.9999,0,0.99095,cert
+temporal_chem,BV,"KOLESTEROL, TOTAL",0.7576,0,0.6579,unc
+temporal_chem,TR,"KOLESTEROL, TOTAL",0.764,0,0.61335,unc
+temporal_chem,OC,"KOLESTEROL, TOTAL",0.9454,0,0.82495,mid
+temporal_chem,BV,"KOLESTEROL, TOTAL",0.9661,0,0.7836,cert
+temporal_chem,TR,"KOLESTEROL, TOTAL",0.9762,1,0.87095,cert
+temporal_chem,OC,"KOLESTEROL, TOTAL",1.0,1,0.9986,cert
+temporal_chem,BV,"KOLESTEROL, TOTAL",0.9702,0,0.84515,cert
+temporal_chem,TR,"KOLESTEROL, TOTAL",0.9154,0,0.6789,mid
+temporal_chem,OC,"KREATİNİN, SERUM#",1.0,1,1.0,cert
+temporal_chem,BV,"KREATİNİN, SERUM#",0.9911,0,0.88735,cert
+temporal_chem,TR,"KREATİNİN, SERUM#",1.0,1,1.0,cert
+temporal_chem,OC,"KREATİNİN, SERUM#",0.9998,1,0.99035,cert
+temporal_chem,BV,"KREATİNİN, SERUM#",0.8984,0,0.72675,mid
+temporal_chem,TR,"KREATİNİN, SERUM#",1.0,1,1.0,cert
+temporal_chem,OC,"KREATİNİN, SERUM#",1.0,1,0.9988,cert
+temporal_chem,BV,"KREATİNİN, SERUM#",0.5388,0,0.51855,unc
+temporal_chem,TR,"KREATİNİN, SERUM#",1.0,1,1.0,cert
+temporal_chem,OC,"KREATİNİN, SERUM#",0.5319,1,0.5138,unc
+temporal_chem,BV,"KREATİNİN, SERUM#",0.8665,0,0.6495,mid
+temporal_chem,TR,"KREATİNİN, SERUM#",1.0,1,1.0,cert
+temporal_chem,OC,"MAGNEZYUM (Mg), SERUM",1.0,1,1.0,cert
+temporal_chem,BV,"MAGNEZYUM (Mg), SERUM",1.0,1,1.0,cert
+temporal_chem,TR,"MAGNEZYUM (Mg), SERUM",0.7347,0,0.6189,unc
+temporal_chem,OC,"MAGNEZYUM (Mg), SERUM",1.0,1,1.0,cert
+temporal_chem,BV,"MAGNEZYUM (Mg), SERUM",1.0,1,1.0,cert
+temporal_chem,TR,"MAGNEZYUM (Mg), SERUM",0.4882,1,0.4862,unc
+temporal_chem,OC,"MAGNEZYUM (Mg), SERUM",1.0,1,1.0,cert
+temporal_chem,BV,"MAGNEZYUM (Mg), SERUM",1.0,1,1.0,cert
+temporal_chem,TR,"MAGNEZYUM (Mg), SERUM",0.5657,0,0.5253,unc
+temporal_chem,OC,"MAGNEZYUM (Mg), SERUM",1.0,1,1.0,cert
+temporal_chem,BV,"MAGNEZYUM (Mg), SERUM",1.0,1,1.0,cert
+temporal_chem,TR,"MAGNEZYUM (Mg), SERUM",0.557,1,0.5224,unc
+temporal_chem,OC,"POTASYUM (K), SERUM",0.9947,1,0.9311,cert
+temporal_chem,BV,"POTASYUM (K), SERUM",0.6842,0,0.6081,unc
+temporal_chem,TR,"POTASYUM (K), SERUM",0.6735,1,0.55885,unc
+temporal_chem,OC,"POTASYUM (K), SERUM",0.999,0,0.9675,cert
+temporal_chem,BV,"POTASYUM (K), SERUM",0.5374,0,0.51515,unc
+temporal_chem,TR,"POTASYUM (K), SERUM",0.847,0,0.6371,mid
+temporal_chem,OC,"POTASYUM (K), SERUM",0.871,1,0.7509,mid
+temporal_chem,BV,"POTASYUM (K), SERUM",0.9814,0,0.85585,cert
+temporal_chem,TR,"POTASYUM (K), SERUM",0.8592,0,0.731,mid
+temporal_chem,OC,"POTASYUM (K), SERUM",0.5357,1,0.52215,unc
+temporal_chem,BV,"POTASYUM (K), SERUM",0.9852,1,0.87505,cert
+temporal_chem,TR,"POTASYUM (K), SERUM",0.9882,1,0.8941,cert
+temporal_chem,OC,"PROTEİN, TOTAL, SERUM",1.0,1,1.0,cert
+temporal_chem,BV,"PROTEİN, TOTAL, SERUM",1.0,1,1.0,cert
+temporal_chem,TR,"PROTEİN, TOTAL, SERUM",0.807,0,0.61655,mid
+temporal_chem,OC,"PROTEİN, TOTAL, SERUM",1.0,1,1.0,cert
+temporal_chem,BV,"PROTEİN, TOTAL, SERUM",1.0,1,1.0,cert
+temporal_chem,TR,"PROTEİN, TOTAL, SERUM",0.9604,0,0.76985,cert
+temporal_chem,OC,"PROTEİN, TOTAL, SERUM",1.0,1,1.0,cert
+temporal_chem,BV,"PROTEİN, TOTAL, SERUM",1.0,1,1.0,cert
+temporal_chem,TR,"PROTEİN, TOTAL, SERUM",0.9163,0,0.67935,mid
+temporal_chem,OC,"PROTEİN, TOTAL, SERUM",1.0,1,1.0,cert
+temporal_chem,BV,"PROTEİN, TOTAL, SERUM",1.0,1,1.0,cert
+temporal_chem,TR,"PROTEİN, TOTAL, SERUM",0.8777,0,0.7021,mid
+temporal_chem,OC,SGOT (AST),0.9995,0,0.9804,cert
+temporal_chem,BV,SGOT (AST),0.9669,0,0.85385,cert
+temporal_chem,TR,SGOT (AST),0.6221,0,0.541,unc
+temporal_chem,OC,SGOT (AST),0.9987,0,0.97675,cert
+temporal_chem,BV,SGOT (AST),0.9587,0,0.8351,cert
+temporal_chem,TR,SGOT (AST),0.5455,0,0.50155,unc
+temporal_chem,OC,SGOT (AST),1.0,0,0.98795,cert
+temporal_chem,BV,SGOT (AST),0.9855,0,0.87705,cert
+temporal_chem,TR,SGOT (AST),0.7339,0,0.6016,unc
+temporal_chem,OC,SGOT (AST),1.0,1,0.9999,cert
+temporal_chem,BV,SGOT (AST),0.8577,0,0.71745,mid
+temporal_chem,TR,SGOT (AST),0.7605,0,0.60075,unc
+temporal_chem,OC,SGPT (ALT),0.9974,0,0.95475,cert
+temporal_chem,BV,SGPT (ALT),0.8535,0,0.71955,mid
+temporal_chem,TR,SGPT (ALT),0.8693,0,0.7068,mid
+temporal_chem,OC,SGPT (ALT),0.7984,0,0.68265,unc
+temporal_chem,BV,SGPT (ALT),0.866,0,0.65905,mid
+temporal_chem,TR,SGPT (ALT),0.7165,1,0.62355,unc
+temporal_chem,OC,SGPT (ALT),0.9999,0,0.9825,cert
+temporal_chem,BV,SGPT (ALT),0.9594,0,0.8378,cert
+temporal_chem,TR,SGPT (ALT),0.6714,0,0.5814,unc
+temporal_chem,OC,SGPT (ALT),0.8729,0,0.73225,mid
+temporal_chem,BV,SGPT (ALT),0.88,0,0.718,mid
+temporal_chem,TR,SGPT (ALT),0.6858,0,0.5659,unc
+temporal_chem,OC,"SODYUM (Na), SERUM",1.0,1,1.0,cert
+temporal_chem,BV,"SODYUM (Na), SERUM",1.0,1,1.0,cert
+temporal_chem,TR,"SODYUM (Na), SERUM",1.0,1,0.98615,cert
+temporal_chem,OC,"SODYUM (Na), SERUM",1.0,1,1.0,cert
+temporal_chem,BV,"SODYUM (Na), SERUM",1.0,1,1.0,cert
+temporal_chem,TR,"SODYUM (Na), SERUM",1.0,1,0.9933,cert
+temporal_chem,OC,"SODYUM (Na), SERUM",1.0,1,1.0,cert
+temporal_chem,BV,"SODYUM (Na), SERUM",1.0,1,1.0,cert
+temporal_chem,TR,"SODYUM (Na), SERUM",1.0,1,0.99995,cert
+temporal_chem,OC,"SODYUM (Na), SERUM",1.0,1,1.0,cert
+temporal_chem,BV,"SODYUM (Na), SERUM",1.0,1,1.0,cert
+temporal_chem,TR,"SODYUM (Na), SERUM",1.0,1,0.98905,cert
+temporal_chem,OC,TRİGLİSERİDLER,1.0,1,0.9896,cert
+temporal_chem,BV,TRİGLİSERİDLER,1.0,1,1.0,cert
+temporal_chem,TR,TRİGLİSERİDLER,0.8894,0,0.66365,mid
+temporal_chem,OC,TRİGLİSERİDLER,1.0,1,0.9998,cert
+temporal_chem,BV,TRİGLİSERİDLER,1.0,1,1.0,cert
+temporal_chem,TR,TRİGLİSERİDLER,0.8255,1,0.69625,mid
+temporal_chem,OC,TRİGLİSERİDLER,1.0,1,1.0,cert
+temporal_chem,BV,TRİGLİSERİDLER,1.0,1,1.0,cert
+temporal_chem,TR,TRİGLİSERİDLER,1.0,1,1.0,cert
+temporal_chem,OC,TRİGLİSERİDLER,1.0,1,1.0,cert
+temporal_chem,BV,TRİGLİSERİDLER,1.0,1,1.0,cert
+temporal_chem,TR,TRİGLİSERİDLER,0.9878,0,0.8874,cert
+temporal_chem,OC,"ÜRE, SERUM",0.9478,0,0.8052,mid
+temporal_chem,BV,"ÜRE, SERUM",0.8309,0,0.6705,mid
+temporal_chem,TR,"ÜRE, SERUM",0.578,0,0.50945,unc
+temporal_chem,OC,"ÜRE, SERUM",0.8705,0,0.70365,mid
+temporal_chem,BV,"ÜRE, SERUM",0.9027,0,0.67445,mid
+temporal_chem,TR,"ÜRE, SERUM",0.9606,1,0.84725,cert
+temporal_chem,OC,"ÜRE, SERUM",0.7392,0,0.64155,unc
+temporal_chem,BV,"ÜRE, SERUM",0.5018,0,0.49775,unc
+temporal_chem,TR,"ÜRE, SERUM",0.7668,0,0.6461,unc
+temporal_chem,OC,"ÜRE, SERUM",0.7879,0,0.6639,unc
+temporal_chem,BV,"ÜRE, SERUM",0.7097,1,0.6251,unc
+temporal_chem,TR,"ÜRE, SERUM",1.0,1,0.991,cert
+temporal_chem,OC,"ÜRİK ASİT, SERUM",0.8343,1,0.69175,mid
+temporal_chem,BV,"ÜRİK ASİT, SERUM",0.9998,1,0.98185,cert
+temporal_chem,TR,"ÜRİK ASİT, SERUM",1.0,1,0.99655,cert
+temporal_chem,OC,"ÜRİK ASİT, SERUM",0.7421,1,0.6465,unc
+temporal_chem,BV,"ÜRİK ASİT, SERUM",1.0,1,1.0,cert
+temporal_chem,TR,"ÜRİK ASİT, SERUM",1.0,1,1.0,cert
+temporal_chem,OC,"ÜRİK ASİT, SERUM",0.5707,1,0.54075,unc
+temporal_chem,BV,"ÜRİK ASİT, SERUM",0.5598,0,0.5321,unc
+temporal_chem,TR,"ÜRİK ASİT, SERUM",0.8745,1,0.7395,mid
+temporal_chem,OC,"ÜRİK ASİT, SERUM",0.8295,0,0.6501,mid
+temporal_chem,BV,"ÜRİK ASİT, SERUM",1.0,1,1.0,cert
+temporal_chem,TR,"ÜRİK ASİT, SERUM",1.0,1,1.0,cert
+newlot_IA,OC,AFP (ALFA-FETOPROTEİN),1.0,1,1.0,cert
+newlot_IA,BV,AFP (ALFA-FETOPROTEİN),0.9656,0,0.83535,cert
+newlot_IA,TR,AFP (ALFA-FETOPROTEİN),0.9234,0,0.77335,mid
+newlot_IA,OC,AFP (ALFA-FETOPROTEİN),1.0,1,1.0,cert
+newlot_IA,BV,AFP (ALFA-FETOPROTEİN),0.9941,0,0.8706,cert
+newlot_IA,TR,AFP (ALFA-FETOPROTEİN),0.8773,0,0.6956,mid
+newlot_IA,OC,AFP (ALFA-FETOPROTEİN),1.0,1,1.0,cert
+newlot_IA,BV,AFP (ALFA-FETOPROTEİN),0.562,0,0.53025,unc
+newlot_IA,TR,AFP (ALFA-FETOPROTEİN),0.9095,0,0.66,mid
+newlot_IA,OC,E2 (ESTRADİOL),1.0,0,1.0,cert
+newlot_IA,BV,E2 (ESTRADİOL),1.0,0,1.0,cert
+newlot_IA,TR,E2 (ESTRADİOL),0.5241,0,0.51045,unc
+newlot_IA,OC,E2 (ESTRADİOL),0.9267,0,0.66265,mid
+newlot_IA,BV,E2 (ESTRADİOL),0.9841,0,0.86645,cert
+newlot_IA,TR,E2 (ESTRADİOL),1.0,1,1.0,cert
+newlot_IA,OC,E2 (ESTRADİOL),1.0,0,1.0,cert
+newlot_IA,BV,E2 (ESTRADİOL),1.0,0,0.99655,cert
+newlot_IA,TR,E2 (ESTRADİOL),0.9699,0,0.76645,cert
+newlot_IA,OC,E2 (ESTRADİOL),0.8678,0,0.64535,mid
+newlot_IA,BV,E2 (ESTRADİOL),0.9299,0,0.7884,mid
+newlot_IA,TR,E2 (ESTRADİOL),1.0,1,1.0,cert
+newlot_IA,OC,E2 (ESTRADİOL),0.8173,0,0.62265,mid
+newlot_IA,BV,E2 (ESTRADİOL),0.885,1,0.75055,mid
+newlot_IA,TR,E2 (ESTRADİOL),1.0,1,1.0,cert
+newlot_IA,OC,FERRİTİN,1.0,1,0.9999,cert
+newlot_IA,TR,FERRİTİN,0.5478,0,0.51395,unc
+newlot_IA,OC,FERRİTİN,1.0,1,1.0,cert
+newlot_IA,TR,FERRİTİN,0.7752,0,0.65815,unc
+newlot_IA,OC,FERRİTİN,1.0,1,0.99905,cert
+newlot_IA,TR,FERRİTİN,0.9118,0,0.7177,mid
+newlot_IA,OC,FERRİTİN,0.9999,0,0.99105,cert
+newlot_IA,TR,FERRİTİN,0.9161,0,0.73295,mid
+newlot_IA,OC,FERRİTİN,1.0,0,1.0,cert
+newlot_IA,TR,FERRİTİN,0.6747,0,0.58425,unc
+newlot_IA,OC,FSH (FOLİKÜL STİMÜNAL HORMON),0.9806,1,0.877,cert
+newlot_IA,BV,FSH (FOLİKÜL STİMÜNAL HORMON),0.5229,0,0.5085,unc
+newlot_IA,OC,FSH (FOLİKÜL STİMÜNAL HORMON),0.7976,1,0.6732,unc
+newlot_IA,BV,FSH (FOLİKÜL STİMÜNAL HORMON),0.8774,1,0.64685,mid
+newlot_IA,OC,FSH (FOLİKÜL STİMÜNAL HORMON),0.9946,0,0.91915,cert
+newlot_IA,BV,FSH (FOLİKÜL STİMÜNAL HORMON),0.7038,0,0.5991,unc
+newlot_IA,OC,FSH (FOLİKÜL STİMÜNAL HORMON),0.9998,1,0.97065,cert
+newlot_IA,BV,FSH (FOLİKÜL STİMÜNAL HORMON),0.9278,0,0.7346,mid
+newlot_IA,OC,FSH (FOLİKÜL STİMÜNAL HORMON),0.997,0,0.9342,cert
+newlot_IA,BV,FSH (FOLİKÜL STİMÜNAL HORMON),0.781,0,0.64275,unc
+newlot_IA,OC,"KORTİZOL, SABAH",1.0,1,0.9986,cert
+newlot_IA,BV,"KORTİZOL, SABAH",0.8722,0,0.7287,mid
+newlot_IA,OC,"KORTİZOL, SABAH",0.6795,0,0.5945,unc
+newlot_IA,BV,"KORTİZOL, SABAH",0.9168,0,0.7605,mid
+newlot_IA,OC,"KORTİZOL, SABAH",0.5678,1,0.5275,unc
+newlot_IA,BV,"KORTİZOL, SABAH",0.8626,1,0.7153,mid
+newlot_IA,OC,"KORTİZOL, SABAH",0.9547,0,0.7482,cert
+newlot_IA,BV,"KORTİZOL, SABAH",0.9147,0,0.65645,mid
+newlot_IA,OC,"KORTİZOL, SABAH",0.8684,1,0.7251,mid
+newlot_IA,BV,"KORTİZOL, SABAH",0.7965,1,0.6519,unc
+newlot_IA,OC,LH (LUTEİNİZAN HORMON),0.7344,1,0.631,unc
+newlot_IA,BV,LH (LUTEİNİZAN HORMON),0.968,1,0.76705,cert
+newlot_IA,OC,LH (LUTEİNİZAN HORMON),0.7718,1,0.64735,unc
+newlot_IA,BV,LH (LUTEİNİZAN HORMON),0.9703,1,0.76915,cert
+newlot_IA,OC,LH (LUTEİNİZAN HORMON),0.894,0,0.7115,mid
+newlot_IA,BV,LH (LUTEİNİZAN HORMON),0.9136,0,0.6633,mid
+newlot_IA,OC,LH (LUTEİNİZAN HORMON),0.7337,0,0.5826,unc
+newlot_IA,BV,LH (LUTEİNİZAN HORMON),0.9853,0,0.88315,cert
+newlot_IA,OC,LH (LUTEİNİZAN HORMON),0.8587,0,0.6421,mid
+newlot_IA,BV,LH (LUTEİNİZAN HORMON),0.9488,0,0.82065,mid
+newlot_IA,OC,PRL (PROLAKTİN),0.7512,1,0.667,unc
+newlot_IA,BV,PRL (PROLAKTİN),1.0,1,0.99715,cert
+newlot_IA,OC,PRL (PROLAKTİN),1.0,1,0.9872,cert
+newlot_IA,BV,PRL (PROLAKTİN),1.0,1,1.0,cert
+newlot_IA,OC,PRL (PROLAKTİN),0.9995,1,0.94885,cert
+newlot_IA,BV,PRL (PROLAKTİN),1.0,1,1.0,cert
+newlot_IA,OC,PRL (PROLAKTİN),1.0,1,1.0,cert
+newlot_IA,BV,PRL (PROLAKTİN),1.0,1,1.0,cert
+newlot_IA,OC,PRL (PROLAKTİN),1.0,1,0.9998,cert
+newlot_IA,BV,PRL (PROLAKTİN),1.0,1,1.0,cert
+newlot_IA,OC,"PSA, TOTAL",1.0,1,1.0,cert
+newlot_IA,BV,"PSA, TOTAL",1.0,1,1.0,cert
+newlot_IA,TR,"PSA, TOTAL",0.9847,0,0.8687,cert
+newlot_IA,OC,"PSA, TOTAL",1.0,1,1.0,cert
+newlot_IA,BV,"PSA, TOTAL",1.0,1,0.9998,cert
+newlot_IA,TR,"PSA, TOTAL",0.9431,0,0.7941,mid
+newlot_IA,OC,"PSA, TOTAL",1.0,1,1.0,cert
+newlot_IA,BV,"PSA, TOTAL",1.0,1,0.99985,cert
+newlot_IA,TR,"PSA, TOTAL",0.9658,1,0.82175,cert
+newlot_IA,OC,"T3, SERBEST",1.0,1,1.0,cert
+newlot_IA,BV,"T3, SERBEST",1.0,1,1.0,cert
+newlot_IA,OC,"T3, SERBEST",1.0,1,1.0,cert
+newlot_IA,BV,"T3, SERBEST",1.0,1,1.0,cert
+newlot_IA,OC,"T3, SERBEST",1.0,1,1.0,cert
+newlot_IA,BV,"T3, SERBEST",1.0,1,1.0,cert
+newlot_IA,OC,"T3, SERBEST",1.0,1,1.0,cert
+newlot_IA,BV,"T3, SERBEST",1.0,1,1.0,cert
+newlot_IA,OC,"T3, SERBEST",1.0,1,1.0,cert
+newlot_IA,BV,"T3, SERBEST",1.0,1,1.0,cert
+newlot_IA,OC,"T4, SERBEST",1.0,1,1.0,cert
+newlot_IA,BV,"T4, SERBEST",1.0,1,1.0,cert
+newlot_IA,TR,"T4, SERBEST",1.0,1,1.0,cert
+newlot_IA,OC,"T4, SERBEST",1.0,1,1.0,cert
+newlot_IA,BV,"T4, SERBEST",1.0,1,1.0,cert
+newlot_IA,TR,"T4, SERBEST",0.9773,1,0.8634,cert
+newlot_IA,OC,"T4, SERBEST",1.0,1,1.0,cert
+newlot_IA,BV,"T4, SERBEST",1.0,1,1.0,cert
+newlot_IA,TR,"T4, SERBEST",1.0,1,1.0,cert
+newlot_IA,OC,"T4, SERBEST",1.0,1,1.0,cert
+newlot_IA,BV,"T4, SERBEST",1.0,1,1.0,cert
+newlot_IA,TR,"T4, SERBEST",0.8864,0,0.7026,mid
+newlot_IA,OC,"T4, SERBEST",1.0,1,1.0,cert
+newlot_IA,BV,"T4, SERBEST",1.0,1,1.0,cert
+newlot_IA,TR,"T4, SERBEST",0.9996,1,0.96935,cert
+newlot_IA,OC,"TESTOSTERON, TOTAL",0.995,1,0.9603,cert
+newlot_IA,BV,"TESTOSTERON, TOTAL",0.8692,0,0.74085,mid
+newlot_IA,TR,"TESTOSTERON, TOTAL",1.0,1,1.0,cert
+newlot_IA,OC,"TESTOSTERON, TOTAL",1.0,1,1.0,cert
+newlot_IA,BV,"TESTOSTERON, TOTAL",0.9994,0,0.97895,cert
+newlot_IA,TR,"TESTOSTERON, TOTAL",1.0,1,1.0,cert
+newlot_IA,OC,"TESTOSTERON, TOTAL",1.0,0,1.0,cert
+newlot_IA,BV,"TESTOSTERON, TOTAL",1.0,0,0.99975,cert
+newlot_IA,TR,"TESTOSTERON, TOTAL",0.6794,0,0.5943,unc
+newlot_IA,OC,TSH,0.9689,0,0.77295,cert
+newlot_IA,BV,TSH,0.6928,0,0.61275,unc
+newlot_IA,TR,TSH,1.0,1,1.0,cert
+newlot_IA,OC,TSH,0.8686,0,0.6412,mid
+newlot_IA,BV,TSH,1.0,1,0.98895,cert
+newlot_IA,TR,TSH,1.0,1,0.99055,cert
+newlot_IA,OC,TSH,0.9109,1,0.75365,mid
+newlot_IA,BV,TSH,0.9737,0,0.7574,cert
+newlot_IA,TR,TSH,1.0,1,1.0,cert
+newlot_IA,OC,TSH,0.8604,1,0.67645,mid
+newlot_IA,BV,TSH,0.6778,0,0.55405,unc
+newlot_IA,TR,TSH,0.6323,0,0.53275,unc
+newlot_IA,OC,TSH,0.8728,1,0.68435,mid
+newlot_IA,BV,TSH,0.9589,0,0.827,cert
+newlot_IA,TR,TSH,0.9692,0,0.8449,cert
